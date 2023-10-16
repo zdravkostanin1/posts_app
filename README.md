@@ -13,4 +13,6 @@ A simple Flutter app which fetches posts from a network.
 - fetch posts from network
 
 ## Information
-- The app uses bloc state management
+- the app uses bloc state management
+- we can generate up to 100 posts (limit)
+- uses https://jsonplaceholder.typicode.com/
